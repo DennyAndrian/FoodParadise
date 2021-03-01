@@ -4,6 +4,7 @@ import {API} from '../config/api';
 import CategoryList from '../components/CategoryList';
 import SearchKeyword from '../components/SearchKeyword';
 import SearchCriteria from '../components/SearchCriteria';
+import MetaTags from 'react-meta-tags';
 
 
 import RestaurantCard from '../components/RestaurantCard';
