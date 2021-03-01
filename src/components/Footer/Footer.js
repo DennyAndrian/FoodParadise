@@ -30,7 +30,7 @@ const Footer = (props) => (
             </div>
         </div>
         <div className="social-networks">
-            <a href="https://api.whatsapp.com/send?text=http://localhost:3000/" target="_blank"><i class="fa fa-whatsapp"></i></a>
+            <a href="#" target="_blank"><i class="fa fa-whatsapp"></i></a>
             <a href="#" className="facebook"><i className="fa fa-facebook"></i></a>
             <a href="#" className="instagram"><i className="fa fa-instagram"></i></a>
         </div>
