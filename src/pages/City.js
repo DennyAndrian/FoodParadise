@@ -5,6 +5,7 @@ import CategoryList from '../components/CategoryList';
 import SearchKeyword from '../components/SearchKeyword';
 import SearchCriteria from '../components/SearchCriteria';
 
+
 import RestaurantCard from '../components/RestaurantCard';
 const restaurants = [
   {
@@ -231,7 +232,13 @@ class City extends Component {
     render() {
         return (
           <>
-          
+          <MetaTags>
+            <title>CITYYYYYYYYYYY</title>
+            <meta name="description" content="ABCDEEFGH" />
+            <meta property="og:title" content="MyAppp" />
+            <meta property="og:image" content="http://webdevelopmentscripts.com/post-images/685b-change-browser-address-bar-color-chrome-android.jpeg" />
+          </MetaTags>
+
           {this.state.city && (
             <div className="container-fluid" style={{marginTop: 30, marginBtoom: 30}}>
             <div className="row">

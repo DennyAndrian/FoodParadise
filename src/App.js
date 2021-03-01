@@ -6,6 +6,7 @@ import City from './pages/City';
 import {BrowserRouter as Router, Route} from "react-router-dom";
 import RestaurantDetail from './pages/RestaurantDetail';
 
+
 class App extends Component {
   render() {
     return (

@@ -1,5 +1,6 @@
 import React from 'react';
 import "./Footer.css";
+import MetaTags from 'react-meta-tags';
 const Footer = (props) => (
 <footer className="my-footer mt-5">
     <div className="text-center">
