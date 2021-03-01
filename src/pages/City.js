@@ -235,7 +235,7 @@ class City extends Component {
           <>
           <MetaTags>
             <title>CITYYYYYYYYYYY</title>
-            <meta data-react-helmet="true" name="description" content="ABCDEEFGH" />
+            <meta data-react-helmet="true" property="og:description" content="ABCDEEFGH" />
             <meta data-react-helmet="true" property="og:title" content="MyAppp" />
             <meta data-react-helmet="true" property="og:image" content="http://webdevelopmentscripts.com/post-images/685b-change-browser-address-bar-color-chrome-android.jpeg" />
           </MetaTags>
